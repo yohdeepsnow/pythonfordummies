@@ -1,5 +1,6 @@
 def penjumlahan(a,b):
 	#isi fungsi penjumlahan diletakkan di variable total
+	total = a+b
 	return total
 
 def pengurangan(a,b):
