@@ -14,6 +14,10 @@ def pembagian(a,b):
 	total=a/b
 	return total
 
+def pangkatdua(a)
+	total = a*a
+	return total
+
 def main():
 	print penjumlahan(5,5)
 	print pengurangan(10,5)
